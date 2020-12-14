@@ -9,22 +9,21 @@ The specific steps are the following:
 1. Data Cleaning
 
 2. Exploratory Data Analysis
-
-* Categorical variables
-* Numerical variables
-* Outcome variable
+  * Categorical variables
+  * Numerical variables
+  * Outcome variable
+  
 3. Model Building (Phase 1-4)
-
-* Data splitting
-* Preprocessing
-* Model building
+  * Data splitting
+  * Preprocessing
+  * Model building
+  
 4. Model Comparison (Phase 1-4)
-
-* Predictions
-* Model comparison
+  * Predictions
+  * Model comparison
+  
 5. Check Model Assumptions for Linear Regression
-
-* Linearity
-* Normality
-* Homoscedasticity
-* Multicollinearity
+  * Linearity
+  * Normality
+  * Homoscedasticity
+  * Multicollinearity
